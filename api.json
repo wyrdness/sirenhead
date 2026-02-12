@@ -1,0 +1,417 @@
+{
+  "category": "INTERNET_FOLKLORE/CRYPTID",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/sirenhead",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    },
+    "creation_note": "Documented fictional creation by artist Trevor Henderson in 2018. Not a real cryptid despite some belief claims."
+  },
+
+  "phenomenon": {
+    "id": "sirenhead",
+    "name": "Sirenhead",
+    "aliases": [
+      {
+        "name": "Siren Head",
+        "meaning": "Alternative spelling"
+      },
+      {
+        "name": "Siren-Head",
+        "meaning": "Alternative spelling"
+      }
+    ],
+    "category": "INTERNET_FOLKLORE/CRYPTID",
+    "subcategory": "Modern cryptid / Horror art character",
+    "tags": [
+      "internet-folklore",
+      "modern-cryptid",
+      "trevor-henderson",
+      "horror-art",
+      "viral-creature",
+      "emergency-broadcast",
+      "rural-horror",
+      "2018"
+    ],
+    "status": "fictional",
+    "description": {
+      "summary": "A 40-foot tall humanoid creature with sirens for a head, created by horror artist Trevor Henderson in 2018. The character mimics voices and emergency broadcasts to lure victims. Despite being documented as fictional art, Sirenhead has spawned belief claims, video games, and widespread internet folklore.",
+      "full": "Sirenhead is a horror character created by Canadian artist Trevor Henderson in 2018 through digital artwork posted to social media. The creature is depicted as an approximately 40-foot tall, skeletal humanoid with mummified skin and two sirens or megaphones where a head should be. According to Henderson's fiction, Sirenhead can mimic human voices, animal sounds, and emergency broadcasts with perfect accuracy to lure victims. It possesses immense strength, moves with disturbing silence despite its size, and inhabits rural areas and forests. The character went viral in 2018-2019, inspiring video games, YouTube videos, and extensive fan content. Despite Henderson clearly stating Sirenhead is his fictional creation, some claim to have witnessed it, and it's often confused with SCP Foundation content (it is NOT an SCP). Sirenhead represents modern cryptid creation via internet art, tapping into anxieties about emergency broadcast systems, rural isolation, and the uncanny valley. The phenomenon demonstrates how internet-native characters can blur the line between acknowledged fiction and pseudo-cryptid belief."
+    },
+    "etymology": {
+      "origin": "Named for the sirens/megaphones that replace its head",
+      "meaning": "Creature with sirens as head",
+      "first_use": "2018"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "INTERNET_FOLKLORE/CRYPTID",
+      "type": "Modern cryptid",
+      "subtype": "Horror art character",
+      "variant": "Trevor Henderson creation"
+    },
+    "related_phenomena": [
+      {
+        "id": "slenderman",
+        "name": "Slenderman",
+        "relationship": "similar",
+        "description": "Earlier internet-created cryptid (2009), similar viral spread"
+      },
+      {
+        "id": "rake",
+        "name": "The Rake",
+        "relationship": "similar",
+        "description": "Creepypasta creature with similar internet origins"
+      },
+      {
+        "id": "trevor-henderson-creations",
+        "name": "Trevor Henderson creatures",
+        "relationship": "same_creator",
+        "description": "Cartoon Cat, Long Horse, Bridge Worm, etc."
+      },
+      {
+        "id": "scp-foundation",
+        "name": "SCP Foundation",
+        "relationship": "often_confused",
+        "description": "Sirenhead is NOT an SCP despite common misconception"
+      }
+    ]
+  },
+
+  "creator": {
+    "name": "Trevor Henderson",
+    "nationality": "Canadian",
+    "profession": "Horror artist, illustrator",
+    "social_media": {
+      "twitter": "@slimyswampghost",
+      "instagram": "trevor.henderson"
+    },
+    "creation_date": "2018",
+    "statement": "Trevor Henderson has confirmed Sirenhead is his fictional artistic creation, not a real cryptid",
+    "other_creations": [
+      "Cartoon Cat",
+      "Long Horse",
+      "Bridge Worm",
+      "Breaking News",
+      "Country Road Creature",
+      "Hundreds of horror creatures"
+    ]
+  },
+
+  "characteristics": {
+    "physical": {
+      "height": {
+        "value": 40,
+        "unit": "feet",
+        "meters": 12.2,
+        "confidence": "fictional_spec"
+      },
+      "build": "Extremely thin, skeletal, emaciated humanoid",
+      "skin": "Mummified, dried, rust-colored or brown",
+      "limbs": "Extremely long arms and legs, thin but powerful",
+      "head": "Two sirens or megaphones mounted on neck in place of head",
+      "features": [
+        {
+          "feature": "Siren 'head'",
+          "description": "Two sirens or megaphones, can rotate independently",
+          "function": "Sound production, mimicry"
+        },
+        {
+          "feature": "Extreme height",
+          "description": "Approximately 40 feet tall, towers over trees",
+          "effect": "Terrifying scale, visible from distance"
+        },
+        {
+          "feature": "Skeletal build",
+          "description": "Emaciated, almost impossibly thin",
+          "effect": "Uncanny, unnatural appearance"
+        },
+        {
+          "feature": "Long limbs",
+          "description": "Disproportionately long arms and legs",
+          "effect": "Disturbing movement, huge reach"
+        },
+        {
+          "feature": "Mummified skin",
+          "description": "Dried, rust-colored, stretched over bones",
+          "effect": "Dead appearance, ancient or decayed"
+        }
+      ]
+    },
+    "abilities": [
+      {
+        "ability": "Perfect vocal mimicry",
+        "description": "Can mimic any human voice, animal sound, or audio with perfect accuracy",
+        "purpose": "Lure victims, cause confusion",
+        "evidence_level": "fictional_lore"
+      },
+      {
+        "ability": "Emergency broadcast",
+        "description": "Can broadcast emergency alert sounds, sirens, air raid warnings",
+        "purpose": "Cause panic, draw people out of safety",
+        "evidence_level": "fictional_lore"
+      },
+      {
+        "ability": "Silent movement",
+        "description": "Despite massive size, moves with disturbing quietness",
+        "purpose": "Stealth, ambush predation",
+        "evidence_level": "fictional_lore"
+      },
+      {
+        "ability": "Immense strength",
+        "description": "Can tear apart structures, vehicles, crush with ease",
+        "purpose": "Capture prey, destruction",
+        "evidence_level": "fictional_lore"
+      },
+      {
+        "ability": "Sound-based hunting",
+        "description": "Tracks prey through sound, uses audio to manipulate",
+        "purpose": "Hunting strategy",
+        "evidence_level": "fictional_lore"
+      }
+    ],
+    "behavior": {
+      "habitat": "Rural areas, forests, abandoned places, isolated roads",
+      "activity_period": "Any time, often night",
+      "disposition": "Hostile, predatory",
+      "hunting_method": "Lures victims with mimicked sounds or emergency broadcasts",
+      "patterns": [
+        "Uses familiar voices to lure victims",
+        "Plays emergency broadcasts to cause panic",
+        "Hunts in isolated rural areas",
+        "Silent stalking despite massive size",
+        "Implied to feed on or kill victims"
+      ]
+    }
+  },
+
+  "creation_history": {
+    "origin": {
+      "date": "2018",
+      "creator": "Trevor Henderson",
+      "platform": "Social media (Twitter/Instagram)",
+      "original_post": "Digital artwork showing tall creature with sirens for head in rural setting"
+    },
+    "timeline": [
+      {
+        "date": "2018",
+        "event": "Trevor Henderson creates Sirenhead artwork",
+        "significance": "Character first appears as digital horror art"
+      },
+      {
+        "date": "2018-2019",
+        "event": "Viral spread across social media",
+        "significance": "Image spreads rapidly, people create fan content"
+      },
+      {
+        "date": "2019-2020",
+        "event": "Video games developed",
+        "significance": "Multiple indie horror games feature Sirenhead"
+      },
+      {
+        "date": "2019-2020",
+        "event": "YouTube content explosion",
+        "significance": "Gaming channels, horror channels, creepypasta readings"
+      },
+      {
+        "date": "2020",
+        "event": "SCP confusion widespread",
+        "significance": "Many incorrectly believe Sirenhead is an SCP"
+      },
+      {
+        "date": "2020",
+        "event": "Henderson clarifies creation",
+        "significance": "Artist confirms fictional status, not SCP"
+      },
+      {
+        "date": "2020-present",
+        "event": "Claimed sightings begin",
+        "significance": "Despite fictional status, some claim to have seen it"
+      }
+    ],
+    "evolution": "Sirenhead evolved from single artwork to viral internet cryptid, inspiring games, videos, and belief claims despite documented fictional origin"
+  },
+
+  "viral_spread": {
+    "platforms": [
+      "Twitter (original posting)",
+      "Instagram (Trevor Henderson's account)",
+      "Reddit (r/TrevorHenderson, creepypasta subs)",
+      "YouTube (gaming, horror, creepypasta)",
+      "TikTok (horror content, alleged sightings)",
+      "Tumblr (fan art, lore)"
+    ],
+    "content_types": [
+      "Original artwork by Henderson",
+      "Fan art",
+      "Video games",
+      "YouTube videos (gameplay, stories)",
+      "Creepypasta stories",
+      "Fake sighting videos",
+      "Memes"
+    ]
+  },
+
+  "misattribution": {
+    "scp_confusion": {
+      "claim": "Many believe Sirenhead is part of SCP Foundation",
+      "reality": "Sirenhead is NOT an SCP, it's Trevor Henderson's personal creation",
+      "why_confused": "Similar internet horror aesthetic, both feature monsters",
+      "henderson_clarification": "Henderson has stated Sirenhead is his own work, not SCP"
+    }
+  },
+
+  "psychology": {
+    "why_effective": [
+      {
+        "factor": "Emergency broadcast anxiety",
+        "description": "Taps into fear of emergency alert systems, EAS scenarios",
+        "cultural_context": "Emergency alerts associated with danger, nuclear warnings, disasters"
+      },
+      {
+        "factor": "Uncanny valley",
+        "description": "Humanoid but wrong, familiar emergency equipment on alien body",
+        "effect": "Deeply unsettling, triggers primal fear response"
+      },
+      {
+        "factor": "Rural isolation fear",
+        "description": "Plays on fear of being alone on country roads, isolated forests",
+        "effect": "Heightened vulnerability, no escape or help"
+      },
+      {
+        "factor": "Sound-based horror",
+        "description": "Mimicry of loved ones, emergency sirens creates paranoia",
+        "effect": "Can't trust what you hear, psychological manipulation"
+      },
+      {
+        "factor": "Scale intimidation",
+        "description": "40-foot height makes it impossible to fight or escape",
+        "effect": "Helplessness, certain doom"
+      }
+    ]
+  },
+
+  "cultural_impact": {
+    "games": [
+      {
+        "title": "Siren Head",
+        "platform": "PC (itch.io)",
+        "year": "2019",
+        "developer": "Modus Interactive"
+      },
+      {
+        "title": "Siren Head: Awakening",
+        "platform": "PC (Steam)",
+        "year": "2020"
+      },
+      {
+        "title": "Siren Head: Retribution",
+        "platform": "PC",
+        "year": "2020"
+      },
+      {
+        "title": "Horror Siren Head Game",
+        "platform": "Mobile",
+        "year": "2020"
+      }
+    ],
+    "youtube": {
+      "content": "Thousands of videos featuring Sirenhead",
+      "types": [
+        "Horror game playthroughs",
+        "Creepypasta readings",
+        "Origin explanations",
+        "Fake sighting compilations",
+        "Fan animations"
+      ],
+      "views": "Collectively tens of millions"
+    },
+    "merchandise": {
+      "unofficial": "T-shirts, posters, toys, phone cases",
+      "note": "Much merchandise produced without Henderson's permission"
+    }
+  },
+
+  "sightings": {
+    "status": "Fictional, but claimed sightings exist",
+    "reality": "Despite being documented fictional creation (2018), some people claim sightings",
+    "explanations": [
+      "Hoaxes (people create fake videos)",
+      "Misidentification (towers, structures, trees)",
+      "Pranks (costume or prop)",
+      "Fictional stories presented as real",
+      "Deliberate creepypasta/storytelling",
+      "Genuine delusion (rare)"
+    ],
+    "note": "Unlike Slenderman which some believed was ancient folklore, Sirenhead's 2018 creation is well-documented"
+  },
+
+  "comparison_to_similar": {
+    "slenderman": {
+      "similarity": "Internet-created horror entity, viral spread, games and content",
+      "difference": "Slenderman (2009) had 'ancient folklore' framing, Sirenhead known as 2018 art",
+      "lesson": "Both show internet can create pseudo-cryptids"
+    },
+    "scp_foundation": {
+      "similarity": "Internet horror, detailed lore, creature documentation",
+      "difference": "SCP is collaborative fiction wiki, Sirenhead is single artist's creation",
+      "confusion": "Many wrongly think Sirenhead is SCP-6789 (it's not)"
+    },
+    "trevor_henderson_universe": {
+      "relationship": "Sirenhead is one of many creatures Henderson created",
+      "others": "Cartoon Cat, Long Horse, Bridge Worm, etc.",
+      "style": "Henderson's distinct horror photography aesthetic"
+    }
+  },
+
+  "status": {
+    "reality": "Fictional artistic creation",
+    "creator_confirmation": "Trevor Henderson confirms it's his fictional character",
+    "creation_documented": "2018 origin well-documented on social media",
+    "belief_claims": "Some people claim sightings despite fictional status",
+    "cultural_significance": "Real as internet culture phenomenon, fictional as actual creature"
+  },
+
+  "sources": [
+    {
+      "id": "henderson-twitter",
+      "type": "primary",
+      "title": "Trevor Henderson Twitter (@slimyswampghost)",
+      "url": "https://twitter.com/slimyswampghost",
+      "description": "Original creator's social media with artwork and clarifications"
+    },
+    {
+      "id": "henderson-instagram",
+      "type": "primary",
+      "title": "Trevor Henderson Instagram",
+      "url": "https://www.instagram.com/trevor.henderson/",
+      "description": "Original artwork and creature designs"
+    },
+    {
+      "id": "games",
+      "type": "cultural",
+      "title": "Various Sirenhead horror games",
+      "description": "itch.io, Steam, and mobile games featuring the character"
+    },
+    {
+      "id": "youtube",
+      "type": "cultural",
+      "title": "YouTube content featuring Sirenhead",
+      "description": "Gaming, creepypasta, and horror content"
+    }
+  ]
+}
