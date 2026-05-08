@@ -1,567 +1,145 @@
-# Sirenhead
+# Siren Head
 
-> *"The emergency broadcast isn't coming from your radio..."*
+> Siren Head is a fictional horror entity created by Canadian artist Trevor Henderson in 2018 — a skeletal 40-foot-tall humanoid with two mechanical sirens in place of a head — that spread virally through internet horror communities and inspired games, videos, and fan works before being misidentified by some users as a real cryptid.
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Status](https://img.shields.io/badge/status-fictional-purple)]()
-[![Created](https://img.shields.io/badge/created-2018-yellow)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-08-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-active-blue)
 
 ---
-
-## ⚠️ Important Notice
-
-**Sirenhead is FICTIONAL**. Created by horror artist Trevor Henderson in 2018 as digital artwork. Despite being a documented fictional creation, Sirenhead has inspired belief claims and is often confused with SCP Foundation content (it is NOT an SCP).
-
-**Creator**: Trevor Henderson ([@slimyswampghost](https://twitter.com/slimyswampghost))
-
----
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `sirenhead` |
-| **Category** | INTERNET_FOLKLORE / CRYPTID |
-| **Type** | Modern cryptid / Horror art character |
-| **Created** | 2018 |
-| **Creator** | Trevor Henderson (Canadian horror artist) |
-| **Status** | Fictional |
+| **Category** | URBAN_LEGEND |
+| **Subcategory** | Internet horror character / modern fictional cryptid |
+| **First recorded** | 2018-01-01 |
+| **Primary range** | A fictional entity with no real-world geographic range |
+| **Status** | active |
 
 ---
-
 ## Overview
 
-Sirenhead is a horror character created by Canadian artist Trevor Henderson in 2018 through digital artwork posted to social media. The creature is depicted as an approximately **40-foot tall**, skeletal humanoid with mummified skin and **two sirens or megaphones** where a head should be.
-
-### Core Concept
-
-According to Henderson's fiction:
-- **Height**: ~40 feet (12 meters)
-- **Appearance**: Emaciated, mummified humanoid
-- **Head**: Two sirens/megaphones instead of normal head
-- **Abilities**: Perfect vocal mimicry, emergency broadcast sounds
-- **Behavior**: Hunts in rural areas, lures victims with sounds
-- **Disposition**: Hostile, predatory
-
-The character went viral in 2018-2019, inspiring video games, YouTube videos, and extensive fan content. **Despite Henderson clearly stating Sirenhead is his fictional creation**, some claim to have witnessed it.
+Siren Head is an original horror character created by Canadian artist Trevor Henderson, first published through social media (Tumblr and Twitter) posts in 2018. The character is depicted as an approximately 40-foot-tall (roughly 12 meter) skeletal humanoid with mummified, dried, rusty-appearing skin, extremely elongated limbs, and no biological head — instead bearing a thin pole of flesh from which two metal road sirens or megaphones extend, capable of swiveling independently. Wires and tendrils connect the siren assembly to the creature's upper body. The entity communicates and hunts through audio mimicry — broadcasting emergency alert tones, music snippets, air raid sirens, radio chatter, and imitations of human voices through its siren speakers. It is described as a predatory entity associated with rural and suburban disappearances, using sound-based camouflage and mimicry to approach victims. Despite being a documented, original fictional creation by a named living artist, Siren Head spread through internet communities quickly enough that many users misidentified it as an actual cryptid or genuine sighting report. A horror video game featuring Siren Head was released on October 31, 2018, by developer Modus Interactive, significantly expanding the character's reach. The character is the most well-known of Trevor Henderson's horror art creations.
 
 ---
+## Names & Aliases
 
+| Name | Origin | Meaning |
+|---|---|---|
+| Sirenhead | English | Common one-word spelling used by fans and media |
+
+## Etymology
+
+- **Origin**: Invented by Canadian artist Trevor Henderson in 2018. The name is descriptive: a creature with sirens (the mechanical emergency warning devices) where a head should be.
+- **Meaning**: A being with mechanical road sirens in place of a biological head.
+- **First use**: 2018 (Trevor Henderson's Tumblr and Twitter posts)
+
+---
+## Related Phenomena
+
+- [Slender Man](../slender-man/) — _similar_: Another fictional internet horror character (created 2009 on Something Awful) that spread virally and was similarly misidentified as a real entity by some communities
+- [Smile Dog](../smile-dog/) — _similar_: Early internet creepypasta horror entity; part of the same tradition of fictional creatures spreading through online communities
+
+---
 ## Physical Description
 
-### Size & Build
+- **Height**: 12–12 meters _(low confidence)_
+- **Morphology**: A fictional bipedal humanoid of extreme height (~12 m / 40 ft) with mechanical components replacing the head. The design combines organic horror (mummified skin, skeletal frame) with industrial elements (metal sirens, wires) to create an uncanny hybrid.
 
-| Attribute | Description |
-|-----------|-------------|
-| **Height** | Approximately 40 feet (12 meters) |
-| **Build** | Extremely thin, skeletal, emaciated |
-| **Proportions** | Impossibly thin for size, uncanny |
-| **Limbs** | Extremely long arms and legs |
-| **Skin** | Mummified, dried, rust-colored or brown |
+### Features
 
-### The "Head"
+| Feature | Description | Frequency |
+|---|---|---|
+| Two mechanical road sirens in place of a head | The defining feature: two metal siren/megaphone assemblies are mounted on a thin pole of flesh, connected to the body by wires and skin tendrils. The sirens can swivel independently. | always |
+| Skeletal humanoid form | Extremely tall and thin, with mummified, dried, rusty-metal-appearing skin stretched over a skeletal frame | always |
+| Elongated limbs | Arms and legs are disproportionately long even relative to the creature's extreme height | always |
+| No biological head | The neck terminates in the siren assembly; no eyes, nose, mouth, or other biological facial features are present | always |
 
-**Two sirens or megaphones** mounted on the neck where a head should be:
-- Can rotate independently
-- Function as both head and sound-production organs
-- Emit emergency broadcasts, sirens, voices
-- Create deeply unsettling appearance
+## Reported Abilities
 
-### Overall Effect
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Audio mimicry and broadcast | Broadcasts emergency alert messages, air raid sirens, music snippets, radio chatter, and imitations of human voices through its siren speakers; used to lure or confuse prey | always | folklore |
+| Camouflage | Can remain motionless and blend into environments (telegraph poles, dead trees, industrial structures) due to its appearance | common | folklore |
+| Predatory hunting | In its fictional canon, associated with unexplained disappearances in rural and suburban areas; a patient apex predator | always | folklore |
 
-**Uncanny valley**: Humanoid shape but fundamentally wrong  
-**Scale**: 40-foot height makes it impossible to fight or escape  
-**Decay**: Mummified appearance suggests ancient or undead  
-**Mechanical**: Siren "head" blends organic and inorganic horrifyingly
+## Behavior
 
----
-
-## Abilities (Fictional Lore)
-
-### 1. Perfect Vocal Mimicry 🔊
-
-**Description**: Can mimic any human voice, animal sound, or audio recording with perfect accuracy
-
-**Uses**:
-- Mimic loved ones calling for help
-- Imitate children crying
-- Reproduce familiar voices
-- Create convincing conversations
-
-**Horror element**: Can't trust what you hear
+- **Activity**: variable
+- **Disposition**: aggressive
+- **Social structure**: solitary
+- **Habitat**: rural areas, forests, suburban fringes, areas with industrial infrastructure
+- **Diet**: Humans and large animals in fictional canon
 
 ---
+## Distribution
 
-### 2. Emergency Broadcast 📻
+A fictional entity with no real-world geographic range. In its fictional framing, depicted in rural North American settings.
 
-**Description**: Broadcasts emergency alert sounds, air raid sirens, disaster warnings
-
-**Uses**:
-- Cause mass panic
-- Draw people out of safety
-- Create atmosphere of disaster
-- Psychological manipulation
-
-**Horror element**: Taps into deep fear of emergency warnings
 
 ---
+## Historical Timeline
 
-### 3. Silent Movement
+| Date | Event | Significance |
+|---|---|---|
+| 2018-01-01 | Trevor Henderson creates and publishes Siren Head artwork on Tumblr and Twitter | Creation event; the work is explicitly fictional by a named Canadian artist |
+| 2018-10-31 | Modus Interactive releases a Siren Head horror video game, dramatically expanding the character's reach | Video game adaptation greatly increases the character's cultural footprint and begins the process of misidentification as a 'real' cryptid in some communities |
 
-**Description**: Despite being 40 feet tall, moves with disturbing quietness
+## Evidence
 
-**Effect**: Can stalk prey without detection, sudden appearances
+### Documentary
 
-**Horror element**: Something that large shouldn't be silent
-
----
-
-### 4. Immense Strength
-
-**Description**: Can tear apart structures, crush vehicles, grab with massive reach
-
-**Effect**: Nothing physical can stop it
-
-**Horror element**: Absolute helplessness if encountered
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Original Siren Head artwork by Trevor Henderson | 2018-01-01 | Digital artwork published by Trevor Henderson on Tumblr and Twitter in 2018, establishing the character's visual design and narrative framing. | verified |
+| Siren Head video game (Modus Interactive, 2018) | 2018-10-31 | Horror video game based on the Siren Head character, released October 31, 2018 by Modus Interactive. | verified |
 
 ---
+## Theories & Explanations
 
-### 5. Sound-Based Hunting
+### Skeptical
 
-**Description**: Tracks prey through sound, uses audio to manipulate and lure
+**Documented fictional creation misidentified as cryptid** _(Trevor Henderson (creator), Internet folklore researchers)_
 
-**Strategy**:
-- Broadcasts sounds to lure victims to isolated areas
-- Uses mimicry to separate people from groups
-- Creates confusion and misdirection
+Siren Head is a fully documented fictional creation by Canadian artist Trevor Henderson (2018). No sightings, no physical evidence, and no pre-2018 cultural tradition exist. The perception of Siren Head as a 'real' cryptid by some audiences is a well-documented phenomenon of internet folklore studies — fictional entities can achieve genuine folkloric status through viral spread that severs the connection to the known source.
 
----
 
-## Behavior & Hunting (Fictional)
+## Popular Culture
 
-### Habitat
-- **Rural areas**: Country roads, isolated farms
-- **Forests**: Deep woods, away from civilization
-- **Abandoned places**: Old structures, forgotten areas
-- **Isolated roads**: Empty highways at night
 
-### Hunting Method
+**Film / TV**: Numerous fan-made short films and YouTube horror content featuring Siren Head
 
-1. **Lurk** in isolated rural area
-2. **Broadcast** emergency sounds or mimicked voices
-3. **Lure** victims to investigate
-4. **Stalk** silently despite massive size
-5. **Capture/Kill** with immense strength
+**Games**: Siren Head (Modus Interactive, 2018) — original game adaptation; Multiple fan-made games on itch.io and other platforms
 
-### Prey
-Implied to hunt humans, though exact fate of victims left ambiguous in original lore
+**Other**: Extensive fan art and merchandise; One of the most searched internet horror characters of 2020
 
 ---
+## Research
 
-## Creation History
+### Researchers
 
-### 2018 — Trevor Henderson Creates Sirenhead
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| Trevor Henderson | Independent artist (Canadian) | Creator of Siren Head; has repeatedly stated the character is fictional and asked that it not be misrepresented as a real entity | 2018–present |
 
-**Creator**: Trevor Henderson, Canadian horror artist  
-**Platform**: Social media (Twitter: @slimyswampghost)  
-**Medium**: Digital horror photography/artwork  
-**Style**: Photorealistic creature composites
-
-**Original artwork**: Tall creature with sirens for head in rural/forest setting
+Siren Head is studied within internet folklore, digital humanities, and the sociology of online communities as a case study of how fictional entities achieve folkloric status through viral spread.
 
 ---
+## Sources
 
-### 2018-2019 — Viral Spread
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
 
-**Social media explosion**:
-- Twitter, Instagram, Reddit, Tumblr
-- Thousands of shares and reposts
-- Fan art proliferation
-- Lore development by fans
 
-**Why it spread**:
-- Striking visual design
-- Taps into emergency broadcast anxiety
-- Perfect for digital sharing
-- Horror gaming aesthetic
+## How to Report a Sighting
+
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
 
 ---
-
-### 2019-2020 — Games & Videos
-
-**Video games developed**:
-- Multiple indie horror games on itch.io
-- Steam releases
-- Mobile games
-- Fan creations
-
-**YouTube content**:
-- Gaming channels play Sirenhead games
-- Horror channels discuss lore
-- Creepypasta readings
-- "Explained" videos
-
-**Views**: Collectively tens of millions
-
----
-
-### 2020 — SCP Confusion
-
-**Major misconception**: Many believe Sirenhead is part of SCP Foundation
-
-**Reality**: Sirenhead is **NOT** an SCP
-- It's Trevor Henderson's personal creation
-- Not part of collaborative SCP wiki
-- Henderson has clarified this repeatedly
-
-**Why confused**: Similar internet horror aesthetic, both feature detailed monster documentation
-
----
-
-### 2020-Present — Claimed Sightings
-
-Despite being **documented as 2018 fictional creation**, some people claim to have seen Sirenhead:
-
-**Likely explanations**:
-- Hoax videos (deliberately faked)
-- Pranks (costumes/props)
-- Misidentification (towers, structures, trees)
-- Fictional stories presented as real
-- Creepypasta storytelling
-- Genuine delusion (rare)
-
----
-
-## Trevor Henderson Creations
-
-Sirenhead is one of **hundreds** of creatures created by Trevor Henderson:
-
-### Other Famous Creations
-
-| Creature | Description |
-|----------|-------------|
-| **Cartoon Cat** | Disturbing cartoon character with realistic body |
-| **Long Horse** | Infinitely long-necked horse skull, benevolent |
-| **Bridge Worm** | Massive worm-like creature inhabiting bridges |
-| **Breaking News** | Creature that manifests through TV broadcasts |
-| **Country Road Creature** | Various rural horror entities |
-
-### Henderson's Style
-
-- Photorealistic horror composites
-- Creatures blend into realistic environments
-- Often massive scale
-- Rural/liminal space settings
-- Disturbing familiarity (everyday things made wrong)
-
----
-
-## Psychology: Why It's Effective
-
-### 1. Emergency Broadcast Anxiety 📡
-
-**Cultural context**:
-- Emergency Alert System (EAS) in US/Canada
-- Nuclear warning associations
-- Disaster alerts, AMBER alerts
-- Deeply ingrained anxiety response
-
-**Effect**: Sirens on creature's "head" tap into primal fear of emergency warnings
-
----
-
-### 2. Uncanny Valley
-
-**Humanoid but wrong**:
-- Human body shape
-- But impossibly thin
-- And sirens instead of head
-- Triggers deep discomfort
-
-**Familiar + wrong = horror**
-
----
-
-### 3. Rural Isolation Fear
-
-**Setting**: Isolated country roads, deep forests
-
-**Fears tapped**:
-- Being alone with no help
-- Vulnerability in wilderness
-- No escape route
-- "Something in the woods"
-
-**Effect**: Heightened terror due to isolation
-
----
-
-### 4. Sound-Based Horror
-
-**Mimicry horror**:
-- Can't trust what you hear
-- Voice of loved one might be trap
-- Emergency broadcast might be lure
-- Paranoia about every sound
-
-**Psychological**: Sound manipulation is deeply unsettling
-
----
-
-### 5. Scale & Helplessness
-
-**40 feet tall**:
-- Impossible to fight
-- Impossible to escape
-- Can reach anywhere
-- Completely outmatched
-
-**Effect**: Absolute helplessness creates existential terror
-
----
-
-## Cultural Impact
-
-### Video Games
-
-**Notable releases**:
-- *Siren Head* (Modus Interactive, 2019)
-- *Siren Head: Awakening* (Steam, 2020)
-- *Siren Head: Retribution* (PC, 2020)
-- *Horror Siren Head Game* (Mobile, 2020)
-- Numerous fan games on itch.io
-
-**Total**: Dozens of games, both commercial and free
-
----
-
-### YouTube Content
-
-**Content types**:
-- Game playthroughs (millions of views)
-- Creepypasta readings
-- "True story" compilations (fictional)
-- Origin explanations
-- Fan animations
-- Fake sighting compilations
-
-**Impact**: Major driver of mainstream awareness
-
----
-
-### TikTok & Short-Form Video
-
-**Content**:
-- "Sirenhead sighting" videos (staged)
-- Horror edits and effects
-- Costume recreations
-- Sound design (emergency broadcasts)
-
-**Effect**: Viral spread to younger audiences
-
----
-
-### Merchandise
-
-**Unofficial products** (much without Henderson's permission):
-- T-shirts and apparel
-- Posters and prints
-- Action figures and toys
-- Phone cases
-- Stickers
-
-**Issue**: Artist often not compensated for use of his creation
-
----
-
-## Sirenhead vs. Other Internet Horror
-
-### Compared to Slenderman (2009)
-
-**Similarities**:
-- Internet-created horror entity
-- Viral spread through images/stories
-- Inspired games and videos
-- Some people claim sightings
-
-**Differences**:
-- **Slenderman**: Presented as ancient folklore, ambiguous origins
-- **Sirenhead**: Known 2018 creation by identified artist
-- **Slenderman**: Tragic real-world consequences (2014 stabbing)
-- **Sirenhead**: Generally understood as fiction
-
----
-
-### Compared to SCP Foundation
-
-**NOT THE SAME**:
-- SCP Foundation: Collaborative fiction wiki (2008-present)
-- Sirenhead: Single artist's creation (2018)
-
-**Common misconception**: Sirenhead is "SCP-6789"
-- **FALSE**: Not an SCP
-- Henderson has clarified repeatedly
-- Confusion due to similar internet horror aesthetic
-
----
-
-### Trevor Henderson Universe
-
-**Relationship**: Sirenhead is one of many Henderson creatures
-
-**Others**: Cartoon Cat, Long Horse, Bridge Worm, etc.
-
-**Style**: Consistent horror photography aesthetic across all creations
-
----
-
-## Claimed Sightings
-
-### Status: Fictional, But Claims Exist
-
-Despite being **documented as 2018 fictional art**, some claim to have seen Sirenhead.
-
-### Explanations
-
-**Hoaxes**:
-- Deliberately faked videos
-- Costume/prop pranks
-- CGI edits
-- Staged "found footage"
-
-**Misidentification**:
-- Cell phone towers
-- Water towers
-- Dead trees with unusual shape
-- Industrial structures in fog/darkness
-
-**Storytelling**:
-- Creepypasta presented as real
-- Fictional accounts for entertainment
-- "True story" videos (acknowledged fiction)
-
-**Genuine Delusion** (rare):
-- Psychological factors
-- Suggestion and expectation
-- Pareidolia (seeing patterns)
-
-### Reality Check
-
-✅ Sirenhead creation **documented** (2018, Trevor Henderson)  
-✅ Artist **confirmed** it's fiction  
-✅ Evolution **tracked** through social media  
-❌ No credible **physical evidence**  
-❌ No verifiable **witness testimony**  
-
----
-
-## Lessons from Sirenhead
-
-### Modern Cryptid Creation
-
-**Demonstrates**:
-1. Internet can create "cryptids" instantly
-2. Fictional creatures can inspire real belief
-3. Visual art more viral than written creepypasta
-4. Emergency/familiar elements make horror effective
-5. Clear creator doesn't prevent belief claims
-
-### Artist Rights
-
-**Issues**:
-- Henderson's creation used without permission
-- Merchandise often doesn't compensate creator
-- Confusion about SCP muddies authorship
-- Internet makes protecting IP difficult
-
-### Fiction vs. Reality
-
-**Blurring lines**:
-- Known fictional origin
-- Still generates "sighting" claims
-- Shows power of effective horror design
-- Demonstrates belief persistence despite evidence
-
----
-
-## How to Engage Responsibly
-
-### ✅ DO
-
-- Enjoy as horror fiction
-- Play games, watch videos, create fan art
-- Credit Trevor Henderson as creator
-- Understand it's fictional
-- Appreciate the artistry
-- Support Henderson's work properly
-
-### ❌ DON'T
-
-- Claim it's real
-- Present fake sightings as genuine
-- Confuse with SCP Foundation
-- Use commercially without permission
-- Spread misinformation about origins
-- Believe/spread "true sighting" claims
-
----
-
-## Trevor Henderson
-
-**Name**: Trevor Henderson  
-**Nationality**: Canadian  
-**Profession**: Horror artist, illustrator
-
-**Social Media**:
-- Twitter: [@slimyswampghost](https://twitter.com/slimyswampghost)
-- Instagram: [trevor.henderson](https://www.instagram.com/trevor.henderson/)
-
-**Style**: Photorealistic horror creatures composited into realistic environments
-
-**Output**: Hundreds of horror creature designs
-
-**Statement**: Has confirmed Sirenhead and all his creatures are fictional artistic creations
-
----
-
-## API Reference
-
-Machine-readable data is available in [`api.json`](api.json).
-
-### Direct Access
-```
-Raw JSON: https://raw.githubusercontent.com/wyrdness/sirenhead/main/api.json
-```
-
----
-
-## Sources & References
-
-See [SOURCES.md](SOURCES.md) for complete bibliography.
-
-### Primary Sources
-- Trevor Henderson social media (Twitter, Instagram)
-- Original artwork (2018)
-- Creator statements on fictional status
-
----
-
 ## License
 
-- **Content**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **Data**: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
-
-**Note**: Sirenhead character is copyrighted by Trevor Henderson. This documentation is about the phenomenon, not claiming ownership of the character.
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-<div align="center">
-
-*Part of the [Wyrdness](https://github.com/wyrdness) Paranormal Archive*
-
-**Fictional creation by Trevor Henderson • Not an SCP • Internet horror icon**
-
-[Suggest Correction](../../issues/new?template=correction.yml) • [Full API](api.json)
-
-</div>
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
